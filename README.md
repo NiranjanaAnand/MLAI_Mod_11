@@ -25,7 +25,7 @@ This project aims to predict the pricing for used carsusing machine learning mod
 
 Explore the Jupyter notebook below with in-depth analysis and insights:
 
-- [**Data Analysis,Modeling and Insights **](https://github.com/NiranjanaAnand/MLAI_Mod_11/edit/main/prompt.ipynb) .
+- [**Data Analysis,Modeling and Insights **](https://github.com/NiranjanaAnand/MLAI_Mod_11/edit/main/prompt_II.ipynb) .
 
 
 
